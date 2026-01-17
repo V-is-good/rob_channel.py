@@ -133,8 +133,3 @@ Notas sobre el ejemplo:
 - Errores de API: revisa excepciones específicas (p. ej. FloodWait, ChatAdminRequired).
 
 ---
-
-Si quieres, puedo:
-- Generar un archivo `.env.example` y un `requirements.txt`.
-- Revisar y adaptar el script para tu caso de uso legítimo (por ejemplo, una herramienta de administración de canales con controles de acceso).
-- Quitar el token incrustado del código y explicarte cómo revocar el token viejo y crear uno nuevo de forma segura.
